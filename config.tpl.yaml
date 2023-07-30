@@ -1,3 +1,5 @@
+# dev / prod
+'mode': 'dev'
 'serve':
   'hostname': 'localhost'
   'port': 3000
