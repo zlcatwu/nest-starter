@@ -20,7 +20,8 @@
     "esModuleInterop": true,
     "paths": {
       "@utils": ["src/utils/index"],
-      "@config": ["src/config"]
+      "@config": ["src/config"],
+      "@database": ["src/database"]
     }
   }
 }
